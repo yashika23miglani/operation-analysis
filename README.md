@@ -1,4 +1,4 @@
-OPERATIONAL ANALYTICS
+# OPERATIONAL ANALYTICS
 
 Overview-
 As we embark on our operational analytics journey, our goal is to understand and optimize various operational processes within our organization. This journey will involve data cleaning with Excel, data management and query resolution with MySQL, and visualization using Power BI.
