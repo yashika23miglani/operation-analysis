@@ -1,9 +1,9 @@
-#Operational Analytics Journey
+OPERATIONAL ANALYTICS
 
-Overview
+Overview-
 As we embark on our operational analytics journey, our goal is to understand and optimize various operational processes within our organization. This journey will involve data cleaning with Excel, data management and query resolution with MySQL, and visualization using Power BI.
 
-Approach
+Approach-
 We'll employ a three-pronged approach to achieve our objectives:
 
 1. Data Cleaning with Excel
@@ -18,7 +18,7 @@ Using SQL queries, we'll address pertinent business questions and extract valuab
 Power BI will be used to visualize our data and insights effectively.
 Interactive dashboards and reports will be created to present data in a user-friendly and intuitive manner.
 Stakeholders will gain actionable insights at a glance, facilitating informed decision-making and strategic planning.
-Benefits
+Benefits-
 This comprehensive approach will enable us to uncover hidden trends and patterns in our operational data.
 By optimizing processes and enhancing operational efficiency, we'll drive performance improvements across the organization.
 Stakeholders will have access to timely and relevant information, empowering them to make data-driven decisions.
